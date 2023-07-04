@@ -1,0 +1,14 @@
+/*
+Theme Name: Astra Child
+Template: astra
+Author: Angel Jouseph Rodriguez Quesada
+Requires PHP: 5.4.0
+Description: Child Theme for Astra
+Version: 1.0.0
+License:        GNU General Public License v2 or later
+License URI:    https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra
+Tags: child-theme, portfolio
+*/
+@import url('../astra/style.css');
+@import url('./assets/css/style.css');
